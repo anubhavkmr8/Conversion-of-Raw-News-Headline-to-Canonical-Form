@@ -2,7 +2,7 @@
 
 # MODEL CREATION STEPS
 
-# Note: - Dataset is not publically available.
+## Note: - Dataset is not publically available.
 
 
 Using a single script, installing libraries, tools, compiling moses, data pre-processing, training, tuning, testing models, BLEU score generation
@@ -13,7 +13,7 @@ Using a single script, installing libraries, tools, compiling moses, data pre-pr
 4) Transformed files for "moses-model23/split/test.rw" using Model2 (moses-pbsmt) & Model3 (moses-syntax) are produced in "moses-model23/split" directory
 
 
-# In case of NETWORK RELATED ERROR while running "run-model23.sh"
+### In case of NETWORK RELATED ERROR while running "run-model23.sh"
 1) Delete "moses-model23" from system
 2) Again copy "moses-model23" dir from "Final_attempt(moses)"
 3) Ensure internet connectivity and follow "MODEL CREATION STEPS" again
